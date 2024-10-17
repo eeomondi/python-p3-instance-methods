@@ -2,7 +2,7 @@
 
 class Person:
     def talk(self):
-        print("Hello world!")
+        print("Hello World!")
     
     def walk(self):
         print("The person is walking.")
